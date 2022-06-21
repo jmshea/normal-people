@@ -9,5 +9,8 @@ with ggplot2 in R.
 The final result for my choice of parameters is also included in this repository:
 ![](normal-people.png)
 
+Here is another variation
+![](normal-people2.png)
+
 This image is now the main image for the landing page of my book: [Foundations of Data Science with Python](https://jmshea.github.io/Foundations-of-Data-Science-with-Python/intro.html)
  
